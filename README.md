@@ -32,7 +32,7 @@ The initial prompt may get us 80% of the way there, but the other 20% relies on 
 
 ## Prompt Examples
 ![Screenshot 2025-01-20 at 11-12-09 i took googles 9 hour ai promt course - Google Search](https://github.com/user-attachments/assets/fbd72347-8ca9-4a74-a11e-023a350edddc)
-![Screenshot 2025-01-20 at 11-12-42 i took googles 9 hour ai promt course - Google Search](https://github.com/user-attachments/assets/709e0cc9-099d-483f-9f86-5b9c0baa9da2)
+
 <img width="514" alt="Screenshot 2025-01-20 111830" src="https://github.com/user-attachments/assets/18d07157-ac8a-4227-954f-bd79a4dd55c6" />
 
 ---
